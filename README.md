@@ -1,3 +1,14 @@
-# Free Fire Like Bot 
-Only For 2 rs to 100
-And 1000 to 20 rs
+Flask[async]
+requests
+aiohttp
+googleapis-common-protos
+pycryptodome
+protobuf
+Werkzeug
+cachetools
+waitress
+python-dotenv
+gunicorn
+discord
+asyncio
+datetime
